@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FillInFunctions
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=char\ randchar()
+comment3.params=start\ stop
+comment3.target=int\ counter(int,\ int)
+comment4.params=value
+comment4.target=int\ abso(int)
+comment5.params=
+comment5.target=java.lang.String\ credits()
+numComments=6

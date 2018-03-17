@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MoreFillInFunctions
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=int\ superrand(int,\ int)
+comment3.params=first\ last\ step
+comment3.target=int\ stepcount(int,\ int,\ int)
+comment4.params=p1\ p2\ p3\ p4\ p5\ p6
+comment4.target=int\ project_grade(int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ get_name()
+comment6.params=
+comment6.target=java.lang.String\ crash()
+numComments=7

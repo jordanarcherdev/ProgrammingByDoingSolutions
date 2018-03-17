@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AreaCalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=base\ height
+comment2.target=double\ area_triangle(int,\ int)
+comment3.params=length\ width
+comment3.target=int\ area_rectangle(int,\ int)
+comment4.params=side
+comment4.target=int\ area_square(int)
+comment5.params=radius
+comment5.target=double\ area_circle(int)
+numComments=6

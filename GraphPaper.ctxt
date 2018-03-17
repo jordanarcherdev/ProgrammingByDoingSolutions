@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GraphPaper
+comment1.params=x\ y
+comment1.target=GraphPaper(int,\ int)
+comment2.params=
+comment2.target=void\ drawBounds()
+comment3.params=c
+comment3.target=void\ setColor(java.awt.Color)
+comment4.params=px\ py
+comment4.target=void\ drawPoint(double,\ double)
+numComments=5

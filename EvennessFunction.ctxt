@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EvennessFunction
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=boolean\ isEven(int)
+comment3.params=n
+comment3.target=boolean\ isDivisibleBy3(int)
+numComments=4
